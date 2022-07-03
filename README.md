@@ -20,9 +20,19 @@ I'm Jawhar from Tunisia, im a student and i do Design and Development. I really 
 ## My Github Stats : 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhaou-Jawhar&show_icons=true)  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+<table style="background-color:#F5F5DC">
+<tr>
+<td>
+<img src="https://github.com/Dhaou-Jawhar/Dhaou-Jawhar/blob/main/dhaou-jawhar%20(1).png" width="180"/>
+
+Harshal Jadhav
+
+<p align="center">
+<a href = "https://github.com/harshalrj25"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gitHubLogo.png" width="32" height = "33"/></a>
+<a href = "https://stackoverflow.com/users/7882093/harshal-jadhav?tab=profile"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow svg icon.svg" width="36" height="36"/></a>
+<a href = "https://www.linkedin.com/in/dhaou-jawhar/"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedInLogo.svg" width="36" height="36"/></a>
+</p>
+</td>
+</tr> 
+</table>
+
