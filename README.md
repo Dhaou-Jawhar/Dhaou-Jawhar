@@ -1,7 +1,13 @@
 ![Design and Developement](https://github.com/Dhaou-Jawhar/Dhaou-Jawhar/blob/main/dhaou-jawhar%20(1).png)
 
 # Hi there 👋, I'm Jawhar Dhaou
-I'm Jawhar from Tunisia, im a student and i do Design and Development. I really enjoy learning language and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. You can check out my LinkedIN at https://www.linkedin.com/in/dhaou-jawhar/
+I'm Jawhar from Tunisia, im a student and i do Design and Development. I really enjoy learning language and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+
+###You can check out My LinkedIn : 
+<p align="left">
+<a href="https://linkedin.com/in/dhaou-jawhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhaou-jawhar" height="20" width="30" /></a>
+</p>
+
 
 ## Skills and Experience 
 * ⚛ React
