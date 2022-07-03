@@ -25,11 +25,10 @@ I'm Jawhar from Tunisia, im a student and i do Design and Development. I really 
 <td>
 <img src="https://github.com/Dhaou-Jawhar/Dhaou-Jawhar/blob/main/be259bd5-577b-4aa8-b27a-250649810988.png" width="180"/>
 
-Harshal Jadhav
+Dhaou Jawhar
 
 <p align="center">
-<a href = "https://github.com/harshalrj25"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gitHubLogo.png" width="32" height = "33"/></a>
-<a href = "https://stackoverflow.com/users/7882093/harshal-jadhav?tab=profile"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow svg icon.svg" width="36" height="36"/></a>
+<a href = "https://github.com/Dhaou-Jawhar"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gitHubLogo.png" width="32" height = "33"/></a>
 <a href = "https://www.linkedin.com/in/dhaou-jawhar/"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedInLogo.svg" width="36" height="36"/></a>
 </p>
 </td>
