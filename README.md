@@ -17,4 +17,6 @@ I'm Jawhar from Tunisia, im a student and i do Design and Development. I really 
 - 🔭 I’m currently working on My own StartUp 
 - 🌱 I’m currently learning Japanise Language ( Katagana ) 
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+## My Github Stats : 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhaou-Jawhar&show_icons=true)  
+
