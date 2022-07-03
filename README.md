@@ -26,8 +26,10 @@ Dhaou Jawhar
 - 🔭 I’m currently working on My own StartUp 
 - 🌱 I’m currently learning Japanise Language ( Katagana ) 
 
-## My Github Stats : 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhaou-Jawhar&show_icons=true)  
+# 📊 My GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dhaou-Jawhar&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dhaou-Jawhar&theme=synthwave&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaou-Jawhar&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&layout=compact)  
 
 
 
