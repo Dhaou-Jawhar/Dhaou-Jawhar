@@ -19,8 +19,6 @@ Dhaou Jawhar
 </td>
 </tr> 
 </table>
-
----
 [![](https://visitcount.itsvg.in/api?id=Dhaou-Jawhar&icon=0&color=6)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
