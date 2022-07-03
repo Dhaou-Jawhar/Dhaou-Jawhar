@@ -8,4 +8,5 @@ I'm Jawhar from Tunisia, im a student and i do Design and Development. I really 
 * 📱 React Native
 * 💻 HTML, CSS, JS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on My own StartUp 
+- 🌱 I’m currently learning Japanise Language ( Katagana ) 
