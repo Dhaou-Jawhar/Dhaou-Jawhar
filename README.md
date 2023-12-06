@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Jawhar Dhaou
 I'm Jawhar from Tunisia, im a student and i do Design and Development. I really enjoy learning language and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhaou-Jawhar" alt="Jawhar" />
 ## You can check my LinkedIn from here : 
 
 <table style="background-color:#F5F5DC">
@@ -34,7 +34,6 @@ Dhaou Jawhar
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Dhaou-Jawhar&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dhaou-Jawhar&theme=synthwave&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaou-Jawhar&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&layout=compact)  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhaou-Jawhar" alt="Jawhar" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
