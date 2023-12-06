@@ -1,4 +1,4 @@
-![Design and Developement](https://github.com/Dhaou-Jawhar/Dhaou-Jawhar/blob/main/dhaou-jawhar%20(1).png)
+<!-- ![Design and Developement](https://github.com/Dhaou-Jawhar/Dhaou-Jawhar/blob/main/dhaou-jawhar%20(1).png) -->
 
 <h1 align="center">Hi there 👋, I'm Jawhar Dhaou</h1>
 <h3 align="center">Tunisian Full-Stack Developer, Driven by Learning & Building.</h3>
