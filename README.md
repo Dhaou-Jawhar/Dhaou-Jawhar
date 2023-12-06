@@ -6,13 +6,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=Dhaou-Jawhar&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<h1 align="center">
-  <!-- DARK -->
-  <a href="https://kounter.kerolloz.dev#gh-dark-mode-only"><img src="https://t.ly/4v7yI" /></a>
-  <!-- LIGHT  -->
-  <a href="https://kounter.kerolloz.dev#gh-light-mode-only"><img src="https://t.ly/QnGhe" /></a>
-</h1>
-
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
