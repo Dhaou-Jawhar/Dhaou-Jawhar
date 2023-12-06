@@ -20,6 +20,8 @@ Dhaou Jawhar
 </tr> 
 </table>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dorakadri" alt="dorakadri" /></a> </p>
+
 [![](https://visitcount.itsvg.in/api?id=Dhaou-Jawhar&icon=0&color=6)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
