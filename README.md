@@ -4,7 +4,8 @@
 <h3 align="center">Tunisian Full-Stack Developer, Driven by Learning & Building.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhaou-Jawhar" alt="Jawhar" />
 
-[![](https://visitcount.itsvg.in/api?id=Dhaou-Jawhar&icon=0&color=6)](https://visitcount.itsvg.in)
+  
+  [![](https://visitcount.itsvg.in/api?id=Dhaou-Jawhar&icon=0&color=6)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
