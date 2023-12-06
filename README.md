@@ -20,7 +20,7 @@ Dhaou Jawhar
 </tr> 
 </table>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dorakadri" alt="dorakadri" /></a> </p>
+</a> </p>
 
 [![](https://visitcount.itsvg.in/api?id=Dhaou-Jawhar&icon=0&color=6)](https://visitcount.itsvg.in)
 
@@ -31,9 +31,10 @@ Dhaou Jawhar
 - 🌱 I’m currently learning Japanise Language ( Katagana ) 
 
 # 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dhaou-Jawhar&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Dhaou-Jawhar&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dhaou-Jawhar&theme=synthwave&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaou-Jawhar&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&layout=compact)  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhaou-Jawhar" alt="Jawhar" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
