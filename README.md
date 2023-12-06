@@ -1,6 +1,6 @@
 ![Design and Developement](https://github.com/Dhaou-Jawhar/Dhaou-Jawhar/blob/main/dhaou-jawhar%20(1).png)
 
-<h1 align="center"># Hi there 👋, I'm Jawhar Dhaou</h1>
+<h1 align="center">Hi there 👋, I'm Jawhar Dhaou</h1>
 <h3 align="center">Tunisian Full-Stack Developer, Driven by Learning & Building.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhaou-Jawhar" alt="Jawhar" />
 
@@ -28,8 +28,9 @@ Dhaou Jawhar
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-- 🔭 I’m currently working on My own StartUp 
-- 🌱 I’m currently learning Japanise Language ( Katagana ) 
+- 🔭 I’m currently learning **react.Js, NodeJS**
+- 🌱 Ask me about **Spring Boot - Angular - Devops**
+- 📫 How to reach me **dhaou.jawhar@gmail.com** or **jawher.dhaou@esprit.tn** 
 
 # 📊 My GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Dhaou-Jawhar&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
