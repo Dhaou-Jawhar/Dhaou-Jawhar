@@ -1,8 +1,9 @@
 ![Design and Developement](https://github.com/Dhaou-Jawhar/Dhaou-Jawhar/blob/main/dhaou-jawhar%20(1).png)
 
-# Hi there 👋, I'm Jawhar Dhaou
-I'm Jawhar from Tunisia, im a student and i do Design and Development. I really enjoy learning language and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+<h1 align="center"># Hi there 👋, I'm Jawhar Dhaou</h1>
+<h3 align="center">Tunisian Full-Stack Developer, Driven by Learning & Building.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhaou-Jawhar" alt="Jawhar" />
+
 ## You can check my LinkedIn from here : 
 
 <table style="background-color:#F5F5DC">
