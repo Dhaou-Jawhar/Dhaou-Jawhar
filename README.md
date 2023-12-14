@@ -18,7 +18,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Dhaou-Jawhar&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
 <center>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dhaou-Jawhar&theme=shades-of-purple&sideLabels=EBEBEB)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1&theme=shades-of-purple&sideLabels=EBEBEB)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaou-Jawhar&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&layout=compact)  
 
 </center>
